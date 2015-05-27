@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Личный кабинет</title>
+        <title>Тест на честность</title>
     </head>
     <body>
         
