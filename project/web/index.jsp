@@ -12,7 +12,6 @@
         <title>Вход в систему</title>
     </head>
     <body>
-        
         <%              
             session.invalidate();
             
