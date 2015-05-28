@@ -42,7 +42,7 @@
             </tr>
             <tr>
                 <td align="right">Пароль:</td>
-                <td><input name="pwd" type="text" size="18"></td>
+                <td><input name="pwd" type="password" size="18"></td>
             </tr>
             <tr>
                 <td></td>
