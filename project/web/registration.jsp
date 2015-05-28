@@ -72,7 +72,7 @@
             <tr>
                 <td align="right">Пароль:</td>
                 <td>
-                    <input name="pwd" type="text" size="23" 
+                    <input name="pwd" type="password" size="23" 
                            value="<%= pwd %>">
                 </td>
             </tr>
